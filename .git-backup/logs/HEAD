@@ -1,0 +1,8 @@
+0000000000000000000000000000000000000000 2fc0d2097243abf2c3b02b6910a43ff337c50f2c Yaseminc0 <yasemincalik77@gmail.com> 1748806358 +0100	commit (initial): created framework
+2fc0d2097243abf2c3b02b6910a43ff337c50f2c 52d82b11e1386e96efa8fb027198e16f5017a574 Yaseminc0 <yasemincalik77@gmail.com> 1748814713 +0100	commit: added projectStructure image
+52d82b11e1386e96efa8fb027198e16f5017a574 6ef946d5a368969de5e3b398f76accda8fa71b44 Yaseminc0 <yasemincalik77@gmail.com> 1748819216 +0100	commit: added README file
+6ef946d5a368969de5e3b398f76accda8fa71b44 0000000000000000000000000000000000000000 Yaseminc0 <yasemincalik77@gmail.com> 1748819637 +0100	Branch: renamed refs/heads/main to refs/heads/main
+6ef946d5a368969de5e3b398f76accda8fa71b44 6ef946d5a368969de5e3b398f76accda8fa71b44 Yaseminc0 <yasemincalik77@gmail.com> 1748819637 +0100	Branch: renamed refs/heads/main to refs/heads/main
+6ef946d5a368969de5e3b398f76accda8fa71b44 6ef946d5a368969de5e3b398f76accda8fa71b44 Yaseminc0 <yasemincalik77@gmail.com> 1748822222 +0100	reset: moving to HEAD
+6ef946d5a368969de5e3b398f76accda8fa71b44 eaec8b8de37eaec770608647e6ccf64e759286c5 Yasmin-Unicard <ysmnuncrd@gmail.com> 1748819216 +0100	filter-branch: rewrite
+eaec8b8de37eaec770608647e6ccf64e759286c5 03024a21a3c7f048d4b7b28e7b96b588144afc57 Yaseminc0 <yasemincalik77@gmail.com> 1748825698 +0100	commit: readme is updated
